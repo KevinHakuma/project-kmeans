@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ /kmeans/login.php [L]
